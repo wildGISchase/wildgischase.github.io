@@ -24,7 +24,7 @@ p {
 .header {
   position: relative;
   background-color: #49C2FF;
-  padding: 20px 10% 20px 10%;
+  padding: 20px 15% 20px 15%;
 }
 .header h1 {
   font-size: 1.5em;
@@ -32,7 +32,7 @@ p {
 
 .body {
   position: relative;
-  padding: 0 10% 5% 10%;
+  padding: 3% 15% 5% 15%;
 }
 .body h1 {
   font-size: 1.2em;
@@ -69,11 +69,12 @@ p {
 }
 .left {
   width: 75%;
-  padding: 10px 10% 0px 10%;
+  padding: 10px 15% 0px 15%;
 }
 .right {
   width: 25%;
   text-align: center;
+  padding: 10px 0px 0px 0px;
 }
 .row:after {
   content: "";
